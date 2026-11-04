@@ -1,0 +1,6 @@
+{
+  "name": "BIZSHARE - Real Estate Referral & Earning Platform",
+  "description": "Pakistan's premier property referral marketing platform. Share verified property opportunities across Lahore and earn referral commissions on successful transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
